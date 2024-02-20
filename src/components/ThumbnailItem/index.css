@@ -1,0 +1,15 @@
+.thumbnail-image-list-container {
+  margin: 10px;
+}
+.thumbnail.btn {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 145px;
+  width: 145px;
+}
+.thumbnail-image {
+  height: 145px;
+  width: 145px;
+}
